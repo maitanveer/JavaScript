@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript Task 1
 
 ## Description
@@ -47,3 +48,7 @@ Why we should avoid var:
 
 console.table([UserEmail, UserPass, Location]);
 console.log(PhoneNumber);
+=======
+# JavaScript
+This Repository cotains Labs for GBTechHive
+>>>>>>> 3f253904512b90d5d01a8d7831ae439f7b75ccb4
